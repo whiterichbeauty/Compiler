@@ -1,4 +1,4 @@
-%{
+%{right
 /* 此处省略#include部分 */
 int chars = 0;
 int words = 0;
